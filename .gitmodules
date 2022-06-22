@@ -1,0 +1,3 @@
+[submodule "naive-addition"]
+	path = naive-addition
+	url = https://github.com/PrzemekSekula/naive-addition.git
